@@ -55,7 +55,7 @@ export default function Home() {
 				</Snippet>
 			</div>
 
-			<Card className="w-[200px] space-y-5 p-4" radius="2xl">
+			<Card className="w-[200px] space-y-5 p-4">
 				<Skeleton className="rounded-lg">
 					<div className="h-24 rounded-lg bg-default-300"></div>
 				</Skeleton>
